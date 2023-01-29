@@ -11,7 +11,7 @@ venue the conference will be in. Do come here. You've got plenty of options.
 
 # A Map
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/en/map/sotm-baltics-2020_409931?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/sotm-baltics-2023_863451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=false&measureControl=false&locateControl=true&editinosmControl=false"></iframe>
 
 # Getting Here
 
