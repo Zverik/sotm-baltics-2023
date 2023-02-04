@@ -6,7 +6,7 @@ Riga! The Europe's Wifi capital!
 But of course there is plenty [more to see](https://www.liveriga.com/en/):
 amazing historic facades, cobblestone roads, a river half
 a kilometer in width with astonishing views. Fish. Anything to
-please a traveller, and we haven't even started on a brand new
+please a traveller, and we haven't even started on an iconic
 venue the conference will be in. Do come here. You've got plenty of options.
 
 # A Map
@@ -22,21 +22,20 @@ Budapest, Tallinn, and Kyiv. Of course you should consult your flight
 booking website of choice for a possibility of a cheaper flight!
 
 Others options of getting to Riga include
-a [ferry](https://www.tallinksilja.com/en/latvia-riga) from Stockholm,
-Lux Express [buses](https://www.luxexpress.eu/en/routes/) from nearby countries,
+Lux Express [buses](https://luxexpress.eu/en/all-routes/) from nearby countries,
 driving, or hiring a private yacht.
 [See details](https://www.liveriga.com/en/10-arrival) on the official
 tourist website.
 
 If you live nearby, there is a chance somebody from the OSM community
 will be travelling the same direction, and you could share the costs.
-Ask around on the [telegram group](https://t.me/OpenStreetMapOrg) or
-on other channels.
+Ask around on the [forum](https://community.openstreetmap.org/) or
+on [other channels](https://openstreetmap.community/?map=57.01004,24.19144&zoom=6).
 
 # The Venue
 
 It's the **National Library of Latvia!** Last time we held a social event there,
-but the building is too big to miss other rooms! Sure it looks hideous,
+but the building is too big to miss other rooms! Sure it looks... outdated,
 but inside it hosts plenty of interesting stuff. Including books!
 
 [The building](https://www.openstreetmap.org/?mlat=56.94143&mlon=24.09598#map=17/56.94143/24.09598)
@@ -50,8 +49,8 @@ To get to the library, take:
 * a tram: it's right opposite the "Nacionālā bibliotēka" stop, trams 1, 2, 5, 10.
 * a bus: same stop for buses 3, 4, 7, 8, 21, 22, 25, 32,
     or a closer one — "LU Akadēmiskais centrs" for bus 23 from the bus and train stations.
-* a taxi: [Bolt](https://bolt.eu/en/cities/riga/) and [Yandex.Taxi](https://taxi.yandex.lv/)
-    are available, no Uber.
+* a taxi: [Bolt](https://bolt.eu/en/cities/riga/) and [phone options](https://www.welcomepickups.com/riga/taxi/)
+    are available, no Uber or Yandex.
 
 # Accomodation
 
@@ -75,11 +74,13 @@ hotel or hostel and book directly: that helps them save on huge booking.com fees
 
 * Browse the official [tourist website](https://www.liveriga.com/en/) for info on events and places.
 * For public transport, purchase an e-ticket at any street kiosk. A ride costs 1.15 €,
-    but 2 € when paid to a driver. Try the [Trafi](https://www.trafi.com/site/en) app.
+    but 2 € when paid to a driver. See the [official website](https://www.rigassatiksme.lv/en/for-riga-guests/public-transport-in-riga/)
+    for schedules, fares, and tickets.
 * Use trams. At least once. Better if you cross the Daugava river.
 * Be prepared to find tons of cat-related souvenirs. Cat on a roof is a common symbol of the city.
 * There are many free wi-fi access points. When lost or in doubt, contact the organizers:
-    Rihards (EN, LV by org email) or Ilya (EN, RU, EE by org email or [telegram](https://t.me/ilyazver)).
+  * Rihards (EN, LV by org email) or Ilya (EN, RU, EE by org email or [telegram](https://t.me/ilyazver)).
+  * [Latvian community chat](https://osmlatvija.zulipchat.com/#narrow/stream/360540-pas.C4.81kumi/topic/SOTM.20Baltics.202023).
   * Org email is [org@sotm-baltics.org](mailto:org@sotm-baltics.org).
 
 _To get to the [main page](/), click on the logo at the top._
