@@ -4,8 +4,8 @@ title: SotM Baltics 2023
 ---
 Welcome to Riga! Yes, that would be a city that hosts our next State of the Map Baltics
 conference, inviting everybody from Baltic states and beyond to share their ideas
-and experience related to OpenStreetMap. We have two days this time: **18-19 May 2023**.
-Two days of talks, workshops and meeting new map people at the National Library of Latvia!
+and experience related to OpenStreetMap. We have two days this time: **8-9 June 2023**.
+Two days of talks, workshops and meeting new map people at the University of Latvia!
 
 This SotM is a part of the [Baltic Geospatial Information Technology Conference](https://www.balticgitconf.eu/).
 We cannot thank them enough for letting us borrow a room for OSM-related talks.
