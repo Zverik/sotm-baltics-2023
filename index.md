@@ -11,9 +11,14 @@ This SotM is a part of the [Baltic Geospatial Information Technology Conference]
 We cannot thank them enough for letting us borrow a room for OSM-related talks.
 Which also means, if you get bored of these, you can attend any of the other
 tracks to listen to more specialized topics. Also it means we've got a serious
-conference and you have to register to attend (registration will open a bit later).
+conference and you have to register to attend.
 
 [Submit your talk here!](https://docs.google.com/forms/d/e/1FAIpQLSdKTwh9YtcYgxDQiBMQEUzJzLrofE5qyEtAq-RwaUhelPijcg/viewform?usp=sf_link)
+{: .button}
+
+And:
+
+[Register now!](https://balticgitconf.eu/registration/)
 {: .button}
 
 After doing all of the above, it's time to book a flight, choose a hotel
