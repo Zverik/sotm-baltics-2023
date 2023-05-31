@@ -37,7 +37,7 @@ of topics. All talks are in the session 2 room.
 * 9:30 — [Ilya Zverev](https://balticgitconf.eu/session/how-to-get-points-of-interest-from-osm/), "How to get points of interest from OSM"
 * 10:00 — [Dāvis Kļaviņš](https://balticgitconf.eu/session/updating-addresses-in-latvia/), "Updating addresses in Latvia"
 * 11:00 — [Tomasz Kozlowski](https://balticgitconf.eu/session/coming-soon-tomtom/), "TomTom’s cooperation and contribution in OpenStreetMap"
-* 13:00 — [Tomasz Straupis](https://balticgitconf.eu/session/optimisation-of-generalisation-re-calculation-using-partitioning-2/) — "Optimisation of generalisation re-calculation using partitioning"
+* 13:00 — [Tomasz Straupis](https://balticgitconf.eu/session/optimisation-of-generalisation-re-calculation-using-partitioning-2/), "Optimisation of generalisation re-calculation using partitioning"
 
 Subscribe to our [mastodon](https://en.osm.town/@sotmbaltics) or [twitter](https://twitter.com/sotmbaltics)
 account for updates.
