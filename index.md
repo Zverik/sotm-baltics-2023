@@ -13,11 +13,6 @@ Which also means, if you get bored of these, you can attend any of the other
 tracks to listen to more specialized topics. Also it means we've got a serious
 conference and you have to register to attend.
 
-[Submit your talk here!](https://docs.google.com/forms/d/e/1FAIpQLSdKTwh9YtcYgxDQiBMQEUzJzLrofE5qyEtAq-RwaUhelPijcg/viewform?usp=sf_link)
-{: .button}
-
-And:
-
 [Register now!](https://balticgitconf.eu/registration/)
 {: .button}
 
@@ -26,6 +21,23 @@ and add some bookmarks to your mobile map. We've got a page just for that:
 
 [Travel, accomodation, the venue](riga.html)
 {: .button}
+
+Finally, here is the schedule for the OSM-related talks. This year we're more tightly working
+with the hosting conference, in attempt to mix the attendees and give more choice
+of topics. All talks are in the session 2 room.
+
+## June 8, Thursday
+
+* 11:10 — [Mateuscz Konieczny](https://balticgitconf.eu/session/osmf-board/), "OSMF Board — What are they even doing?"
+* 11:40 — [Regita Zeila](https://balticgitconf.eu/session/coming-soon-osm2/), "OSM from beginner's perspective: first impressions"
+* 12:10 — [Tomas Straupis](https://balticgitconf.eu/session/openstreetmap-data-quality-assurance-in-lithuania/), "OpenStreetMap data Quality assurance in Lithuania"
+
+## June 9, Friday
+
+* 9:30 — [Ilya Zverev](https://balticgitconf.eu/session/how-to-get-points-of-interest-from-osm/), "How to get points of interest from OSM"
+* 10:00 — [Dāvis Kļaviņš](https://balticgitconf.eu/session/updating-addresses-in-latvia/), "Updating addresses in Latvia"
+* 11:00 — [Tomasz Kozlowski](https://balticgitconf.eu/session/coming-soon-tomtom/), "TomTom’s cooperation and contribution in OpenStreetMap"
+* 13:00 — [Tomasz Straupis](https://balticgitconf.eu/session/optimisation-of-generalisation-re-calculation-using-partitioning-2/) — "Optimisation of generalisation re-calculation using partitioning"
 
 Subscribe to our [mastodon](https://en.osm.town/@sotmbaltics) or [twitter](https://twitter.com/sotmbaltics)
 account for updates.
