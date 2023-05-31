@@ -9,7 +9,7 @@ a kilometer in width with astonishing views. Fish. Anything to
 please a traveller, and we haven't even started on an iconic
 venue the conference will be in. Do come here. You've got plenty of options.
 
-# A Map
+# The Map
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/sotm-baltics-2023_863451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=false&measureControl=false&locateControl=true&editinosmControl=false"></iframe>
 
@@ -34,20 +34,20 @@ on [other channels](https://openstreetmap.community/?map=57.01004,24.19144&zoom=
 
 # The Venue
 
-It's the **National Library of Latvia!** Last time we held a social event there,
-but the building is too big to miss other rooms! Sure it looks... outdated,
-but inside it hosts plenty of interesting stuff. Including books!
+It's the **University of Latvia!** Just like the last time, we will
+occupy the most modern university building, pleasant all around and just across the street
+from a river (well, a canal, not very picturesque, but still).
 
-[The building](https://www.openstreetmap.org/?mlat=56.94143&mlon=24.09598#map=17/56.94143/24.09598)
-is impossible to miss: just look for a national library in your mapping app.
-Here's a [GeoURI](geo:56.94145,24.09610?z=16)
-and an [Organic Maps marker](https://omaps.app/44wGujuGCS/Latvijas_Nacion%C4%81l%C4%81_bibliot%C4%93ka) for you.
+[The building](https://www.openstreetmap.org/?mlat=56.9367&mlon=24.0973#map=16/56.9367/24.0973)
+is hard to miss, though it mandates a few minutes of [walking](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=56.9417%2C24.0949%3B56.9368%2C24.0977#map=16/56.9393/24.0963)
+from the public library. Here's a [GeoURI](geo:56.9367,24.0973?z=16)
+and an [Organic Maps marker](https://omaps.app/44wGujFANZ/Dabas_m%C4%81ja) for you.
 When near, find the Baltic GIT conference banners and follow them.
 
-To get to the library, take:
+To get to the university building, take:
 
-* a tram: it's right opposite the "Nacionālā bibliotēka" stop, trams 1, 2, 5, 10.
-* a bus: same stop for buses 3, 4, 7, 8, 21, 22, 25, 32,
+* a tram: get to the "Nacionālā bibliotēka" stop, trams 1, 2, 5, 10.
+* a bus: the same stop for buses 3, 4, 7, 8, 21, 22, 25, 32,
     or a closer one — "LU Akadēmiskais centrs" for bus 23 from the bus and train stations.
 * a taxi: [Bolt](https://bolt.eu/en/cities/riga/) and [phone options](https://www.welcomepickups.com/riga/taxi/)
     are available, no Uber or Yandex.
